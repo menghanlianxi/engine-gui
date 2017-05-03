@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+</head>
+
+<body>
+    <canvas width="2500" height="1000" id="app"></canvas>
+    <script src="dessert/dessert.js"></script>
+    <script>
+        document.write(process.versions.electron)
+        
+        // let a = require('./lib/render/a.js')
+        // a.a();
+        let gui = require('./lib/render/gui.js')
+        gui.run();
+    </script>
+</body>
+
+</html>

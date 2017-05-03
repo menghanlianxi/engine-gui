@@ -1,0 +1,40 @@
+{
+    "resource": [
+        {
+            "name": "add.png",
+            "type": "image",
+            "url": "test-project/add.png",
+            "width": 50,
+            "height": 50
+        },
+        {
+            "name": "bianji.png",
+            "type": "image",
+            "url": "test-project/bianji.png",
+            "width": 50,
+            "height": 50
+        },
+        {
+            "name": "delete.png",
+            "type": "image",
+            "url": "test-project/delete.png",
+            "width": 50,
+            "height": 50
+        },
+        {
+            "name": "shuaxin.png",
+            "type": "image",
+            "url": "test-project/shuaxin.png",
+            "width": 50,
+            "height": 50
+        },
+        {
+            "name": "save.png",
+            "type": "image",
+            "url": "test-project/save.png",
+            "width": 50,
+            "height": 50
+        }
+        
+    ]
+}
